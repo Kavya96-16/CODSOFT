@@ -5,3 +5,6 @@ And there is a topic of feature engineering.
  There are Key outcomes.
  There are also future Considerations>
  
+And in Iris flower classification dataset document there are all how the flowers are classified and what are the insights of it and all
+
+And in Credit card fraud detection document there are the topics under how the detection can be happen and how cards can be saved.
